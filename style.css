@@ -1,7 +1,6 @@
 @font-face {
     font-family: 'Archivo Black';
     src: url('/_fonts/ArchivoBlack-Regular.ttf') format('ttf');
-    font-family: ;
     src: url('/_fonts/ArchivoSemiExpandedExtraLight-Regular.ttf') format('ttf');
     /* Agrega más formatos si es necesario para mayor compatibilidad */
 }
@@ -138,6 +137,33 @@ nav a:hover {
     height: 81px;
     font-size: 36px;
     font-family: 'Montserrat', sans-serif;
+}
+
+#myButton{
+    margin-left: 90px;
+    background-color: #284259;
+    border-radius: 90px;
+    width: 43%;
+    height: 33px;
+    border: 1px;
+    color: #FFFFFF;
+    font-size: 16px;
+    font-family: 'Archivo Black';
+    margin-top: 33px;
+    padding: 0px 0px 0px 0px;
+}
+
+#BlueBloc{
+    background-color: #284259;
+    height: 319px;
+}
+
+#TituloG2{
+    margin-left: 500px
+}
+
+#TextoXS{
+    margin-left: 500px
 }
 
 main {
