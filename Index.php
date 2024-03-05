@@ -21,8 +21,16 @@
         </div>
     </div>
     <div id="BlueBloc">
-        <div id="TituloG2">QUIENES SOMOS</div>
+        <div style="display: block; height: 0;"></div>
+        <div id="TituloG2">Q&nbsp;U&nbsp;I&nbsp;E&nbsp;N&nbsp;E&nbsp;S&nbsp; &nbsp;S&nbsp;O&nbsp;M&nbsp;O&nbsp;S</div>
         <div id="TextoXS">Somos un grupo de profesionales en la cultura vial con 30 años de experiencia, que preocupados ante la alarmante incidencia de accidentes vehiculares por la falta de capacitación se unieron, para crear un Centro de Capacitación en Conducción con la finalidad de educar a las próximas generaciones de conductores, para que se protejan así mismos, a su familia y al resto de las personas que utilizan las vías públicas.</div>
+    </div>
+    <div id="BlueTxt">S&nbsp;E&nbsp;R&nbsp;V&nbsp;I&nbsp;C&nbsp;I&nbsp;O&nbsp;S</div>
+    <div id="NegroTxt">Servicios Educativos impartidos por el sector privado.</div>
+    <div id="SECOND-container">
+        <div class="OrangBloc"></div>
+        <div class="OrangBloc"></div>
+        <div class="OrangBloc"></div>
     </div>
 
 </body>

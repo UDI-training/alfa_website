@@ -9,6 +9,7 @@ body {
     margin: 0;
     padding: 0;
     font-family: Arial, sans-serif;
+    background-color: #EFEDDA;
 }
 
 header {
@@ -156,14 +157,57 @@ nav a:hover {
 #BlueBloc{
     background-color: #284259;
     height: 319px;
+    border: 1px solid #cccccc00;
+    padding: 1px;
+    overflow: auto;
 }
 
 #TituloG2{
-    margin-left: 500px
+    padding-top: 85px;
+    color: #F16430;
+    font-family: 'Archivo Black';
+    font-size: 40px;
+    margin-left: 450px
 }
 
 #TextoXS{
-    margin-left: 500px
+    margin-left: 270px;
+    color: #FFFFFF;
+    font-size: 16px;
+    /* display: inline; */
+    text-align: center;
+    width: 899px;
+    margin-top: 50px;
+}
+
+#BlueTxt{
+    color: #284259;
+    font-family: 'Archivo Black';
+    margin-left: 604px;
+    font-size: 34px;
+    margin-top: 66px;
+}
+
+#NegroTxt{
+    font-size: 16px;
+    margin-left: 567px;
+    margin-top: 20px;
+}
+
+#SECOND-container{
+    display: flex;
+    margin-left: 190px;
+    margin-top: 53px;
+}
+
+.OrangBloc{
+    background-color: #F16430;
+    width: 303px;
+    height: 388px;
+    margin: 10px 10px 10px 41px;
+    border-color: black;
+    border-radius: 20px;
+    border: 3px solid #284259;
 }
 
 main {
