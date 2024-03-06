@@ -13,6 +13,7 @@
 <!-- Contenedor principal -->
 
 
+<?php include_once("PhpAssets/footer.php"); ?>
 
 </body>
 </html>
