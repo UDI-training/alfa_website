@@ -386,3 +386,117 @@ footer {
     color: #F16430;
 }
 
+/* Contacto.php */
+
+#formulario{
+    background-color: #FFFFFF;
+    width: 1196px;
+    height: 667px;
+    /* margin-top: 83px; */
+    /* margin-left: 120px; */
+    border-radius: 10px;
+    overflow: auto;
+    margin: 85px 10px 85px 120px;
+}
+
+#MiniBlocBlue{
+    width: 492px;
+    height: 627px;
+    margin-top: 4px;
+    /* margin: 10px 10px 10px 10px; */
+    border-radius: 12px;
+    background-color: #284259;
+    padding: 25px 0px 0px 0px;
+    position: relative;
+    margin-left: 9px;
+    border: 2px solid #F16430;
+}
+
+#OrgTitle{
+    margin-left: 46px;
+    margin-top: 19px;
+    font-family: Archivo Black;
+    font-size: 33px;
+    color: #F16430;
+    width: 362px;
+}
+
+#NewLogos{
+    margin-left: 50px;
+    margin-top: 18px;
+    display: flex;
+    flex-direction: column;
+}
+
+.LogosNeutro{
+    margin-bottom: 30px;
+    position: relative;
+    z-index: 1;
+    padding: 34px 0px 0px 0px;
+}
+
+.AcompaLogo{
+    margin-left: 48px;
+    position: relative;
+    z-index: 2;
+    margin-top: -58px;
+    font-family: Archivo Black;
+    color: #FFFFFF;
+    font-size: 15px;
+}
+
+#Mapa{
+    margin-left: 70px;
+    margin-top: 35px;
+}
+
+#Minilogo{
+    margin-left: 76px;
+    margin-top: 16px;
+}
+
+#CompilacionLogosNaranjas{
+    margin-left: 250px;
+    margin-top: -34px;
+}
+
+#lario{
+    position: relative;
+    z-index: 2;
+    margin-left: 600px;
+    margin-top: -500px;
+    padding: 10px 10px 10px 10px;
+}
+
+.form{
+    color: #284259;
+    font-family: Montserrat;
+    font-size: 15px;
+}
+
+.Rellenar{
+    border: 0px solid;
+    border-bottom: 1px solid #F16430;
+    width: 500px;
+    height: 30px;
+}
+
+#message{
+    border: 0px;
+    /* height: 19px; */
+    /* width: 342px; */
+    border-bottom: 1px solid #F16430;
+    width: 500px;
+
+}
+
+#enter{
+    border: 2px solid #F16430;
+    background-color: #284259;
+    font-family: Archivo SemiExpanded;
+    color: #F16430;
+    width: 500px;
+    height: 46px;
+    border-radius: 5px;
+}
+
