@@ -1,7 +1,20 @@
+/* - - - - - - - - - - - - - - -
+CSS principal
+Desarrollado por: Upgrade Diseño Interactivo
+Para: Alfa
+Fecha: Marzo 2024
+Ultima modificación por: Saúl Rodríguez
+Fecha: Marzo 2024
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ */
+
+
+/*---------------------------- GENERAL---------------------------- */
+
+
 @font-face {
     font-family: 'archivo_semiexpanded';
-    src: url('_fonts/archivo_semiexpanded_extralight-webfont.woff2') format('woff2'),
-         url('_fonts/archivo_semiexpanded_extralight-webfont.woff') format('woff');
+    src: url('../../_fonts/archivo_semiexpanded_extralight-webfont.woff2') format('woff2'),
+         url('../../_fonts/archivo_semiexpanded_extralight-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -12,8 +25,8 @@
 
 @font-face {
     font-family: 'archivo_black';
-    src: url('_fonts/archivoblack-regular-webfont.woff2') format('woff2'),
-         url('_fonts/archivoblack-regular-webfont.woff') format('woff');
+    src: url('../../_fonts/archivoblack-regular-webfont.woff2') format('woff2'),
+         url('../../_fonts/archivoblack-regular-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -24,8 +37,8 @@
 
 @font-face {
     font-family: 'montserrat';
-    src: url('_fonts/montserrat-variablefont_wght-webfont.woff2') format('woff2'),
-         url('_fonts/montserrat-variablefont_wght-webfont.woff') format('woff');
+    src: url('../../_fonts/montserrat-variablefont_wght-webfont.woff2') format('woff2'),
+         url('../../_fonts/montserrat-variablefont_wght-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -40,7 +53,7 @@ body {
 
 header {
     position: relative; /* Agrega esta propiedad */
-    background-image: url(_images/ImagenP.svg);
+    background-image: url(../../_images/ImagenP.svg);
     background-color: rgba(21, 74, 144, 0.828); /* Este es el color que quieres poner encima de la imagen */; /* This is the color that will be placed on top of the image */
     background-blend-mode: multiply;
     width: 100%;
@@ -118,7 +131,7 @@ nav a:hover {
 }
 
 #logo{
-    background-image: url(_images/ALFAlogo.svg);
+    background-image: url(../../_images/ALFAlogo.svg);
     z-index: 2;
     width: 26%;
     height: 17%;
@@ -136,7 +149,7 @@ nav a:hover {
 
 #imagen-container{
     display: flex;
-    background-image: url(_images/MujerCarro.svg);
+    background-image: url(../../_images/MujerCarro.svg);
     width: 50%;
     height: 500px;
 }

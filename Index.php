@@ -1,15 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" type="text/css" href="style.css">
-    <script type="text/javascript" src="script.js"></script>
+    <base href="http://localhost:8888/alfa_website/">
+    <?php include_once('_phpAssets/head.php'); ?>
 
     <title>ALFA Escuela Profesional de Manejo</title>
 </head>
 <body>
-	<?php include_once("PhpAssets/header.php"); ?>
+	<?php include_once("_phpAssets/header.php"); ?>
     <div class="FIRST-container">
         <div id="imagen-container"></div>
         <div id="bloc">
@@ -28,23 +26,23 @@
     <div id="BlueTxt">S&nbsp;E&nbsp;R&nbsp;V&nbsp;I&nbsp;C&nbsp;I&nbsp;O&nbsp;S</div>
     <div id="NegroTxt">Servicios Educativos impartidos por el sector privado.</div>
     <div id="SECOND-container">
-        <div class="OrangBloc"><img class="Logos" src="CarLogo.svg" alt="Car"><div class="Txtbloc">Curso de manejo para principiantes</div></div>
-        <div class="OrangBloc"><img class="Logos" src="LicenciaLogo.svg" alt="Licencia"><div class="Txtbloc">Curso de manejo intermedio</div></div>
-        <div class="OrangBloc"><img class="Logos" src="RayLogo.svg" alt="Rayo"><div class="Txtbloc">Curso de manejo masivo</div></div>
+        <div class="OrangBloc"><img class="Logos" src="_images/CarLogo.svg" alt="Car"><div class="Txtbloc">Curso de manejo para principiantes</div></div>
+        <div class="OrangBloc"><img class="Logos" src="_images/LicenciaLogo.svg" alt="Licencia"><div class="Txtbloc">Curso de manejo intermedio</div></div>
+        <div class="OrangBloc"><img class="Logos" src="_images/RayLogo.svg" alt="Rayo"><div class="Txtbloc">Curso de manejo masivo</div></div>
     </div>
     <div id="myButtonContainer2">
         <button id="myButton2">Contactanos</button>
     </div>
     <div class="BlueBloc">
         <div id="TxtCirc">Adquiere el conocimiento suficiente para conducir y obtener su certificado con validez oficial que lo acredite.</div>
-        <div><img id="circulito" src="OrangeCircle.svg" alt="Circulo"></div>
+        <div><img id="circulito" src="_images/OrangeCircle.svg" alt="Circulo"></div>
     </div>
-    <div><img id="Real" src="CarroReal.svg" alt="Carro"></div>
+    <div><img id="Real" src="_images/CarroReal.svg" alt="Carro"></div>
     <div id="THIRD-container">
         <div class="CircularBloc"><div class="TxtOrg">MISIÓN</div><div class="SubTxt">Educar para prevenir</div></div>
         <div class="CircularBloc"><div class="TxtOrg">VISIÓN</div><div class="SubTxt">Crear una nueva cultura de respeto al conducir</div></div>
         <div class="CircularBloc"><div class="TxtOrg">VALORES</div><div class="FlexText"><span class="word">Confianza</span><span class="word">Respeto</span><span class="word">Equidad</span><span class="word">Empatía</span></div></div>
     </div>
-    <?php include_once("PhpAssets/footer.php"); ?>
+    <?php include_once("_phpAssets/footer.php"); ?>
 </body>
 </html>

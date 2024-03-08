@@ -1,13 +1,13 @@
 <footer>
 	<div id="LG">
-		<img src="ALFAlogoaltr.svg" alt="version2">
+		<img src="_images/ALFAlogoaltr.svg" alt="version2">
 	</div>
 	<div id="MiniAzul">Plaza Comercial Travessia avenida Teófilo Borunda No. 11811</div>
 	<div id="CompilacionLogos">
-		<a href="#" class="button-one"><img src="InstaLogo.svg" alt="Instagram"></a>
-		<a href="#" class="button-two"><img src="FaceLogo.svg" alt="Facebook"></a>
-		<a href="#" class="button-three"><img src="TikTokLogo.svg" alt="TikTok"></a>
-		<a href="#" class="button-four"><img src="Youtube.svg" alt="YouTube"></a>
+		<a href="#" class="button-one"><img src="_images/InstaLogo.svg" alt="Instagram"></a>
+		<a href="#" class="button-two"><img src="_images/FaceLogo.svg" alt="Facebook"></a>
+		<a href="#" class="button-three"><img src="_images/TikTokLogo.svg" alt="TikTok"></a>
+		<a href="#" class="button-four"><img src="_images/Youtube.svg" alt="YouTube"></a>
 	</div>
 	<div id="LinksPag">
 		<a href="#" class="button-five" style="color: #fff; text-decoration: none;">INICIO</a>
