@@ -43,7 +43,6 @@
         <div class="CircularBloc"><div class="TxtOrg">VISIÓN</div><div class="SubTxt">Crear una nueva cultura de respeto al conducir</div></div>
         <div class="CircularBloc"><div class="TxtOrg">VALORES</div><div class="FlexText"><span class="word">Confianza</span><span class="word">Respeto</span><span class="word">Equidad</span><span class="word">Empatía</span></div></div>
     </div>
-    <div>Hola Mundo</div>
     <?php include_once("_phpAssets/footer.php"); ?>
 </body>
 </html>
