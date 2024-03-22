@@ -126,7 +126,7 @@ nav a:hover {
 }
     #logo span{ padding-top: 32.5%; display: block; }
 
-.FIRST-container{
+.first-container{
     display: flex;
     /*flex-direction: column;*/
     justify-content: center;
@@ -150,14 +150,14 @@ nav a:hover {
     text-align: left;
 }
 
-.TitulosG{
+.titulos-g{
     color: #fff;
     font-size: 128px;
     margin-left: 89px;
     font-family: 'archivo_black';
 }
 
-#TextoS{
+#texto-s{
     width: 525px;
     margin-left: 103px;
     margin-top: -37px;
@@ -181,7 +181,7 @@ nav a:hover {
     padding: 0px 0px 0px 0px;
 }
 
-.BlueBloc{
+.blueBloc{
     background-color: #284259;
     height: 319px;
     border: 1px solid #cccccc00;
@@ -191,7 +191,7 @@ nav a:hover {
     z-index: 1;
 }
 
-#TituloG2{
+#titulo-G2{
     padding-top: 85px;
     color: #F16430;
     font-family: 'archivo_black';
@@ -199,7 +199,7 @@ nav a:hover {
     margin-left: 450px
 }
 
-#TextoXS{
+#texto-XS{
     margin-left: 270px;
     color: #FFFFFF;
     font-size: 16px;
@@ -209,7 +209,7 @@ nav a:hover {
     margin-top: 50px;
 }
 
-#BlueTxt{
+#blueTxt{
     color: #284259;
     font-family: 'archivo_black';
     margin-left: 604px;
@@ -217,19 +217,19 @@ nav a:hover {
     margin-top: 66px;
 }
 
-#NegroTxt{
+#negroTxt{
     font-size: 16px;
     margin-left: 567px;
     margin-top: 20px;
 }
 
-#SECOND-container{
+#second-container{
     display: flex;
     margin-left: 105px;
     margin-top: 53px;
 }
 
-.OrangBloc{
+.orangBloc{
     background-color: #F16430;
     width: 303px;
     height: 388px;
@@ -333,14 +333,14 @@ footer {
     z-index: 2;
 }
 
-#Real{
+#real{
     transform: translate(10px, -280px);
     margin-left: 116px;
     position: relative;
     z-index: 4;
 }
 
-#TxtCirc{
+#txtCirc{
     margin-left: 990px;
     margin-top: 140px;
     transform: translate(10px, 10px);
@@ -352,11 +352,11 @@ footer {
     font-size: 20px;
 }
 
-#QS{
+#qs{
     margin: 10px 106px 10px 106px;
 }
 
-#THIRD-container{
+#third-container{
     display: flex;
     /* margin-bottom: 0px; */
     position: relative;
@@ -365,7 +365,7 @@ footer {
     padding: 0px 63px 20px 20px;
 }
 
-.CircularBloc{
+.circularBloc{
     width: 311px;
     height: 311px;
     border-radius: 50%;
@@ -378,7 +378,7 @@ footer {
     background-color: #FFFFFF;
 }
 
-.TxtOrg{
+.txtOrg{
     margin-left: 121px;
     margin-top: 90px;
     color: #F16430;
@@ -386,7 +386,7 @@ footer {
     font-size: 20px;
 }
 
-.SubTxt{
+.subTxt{
     color: #284259;
     font-family: 'archivo_black';
     margin-left: 53px;
@@ -396,7 +396,7 @@ footer {
     width: 216px;
 }
 
-.FlexText {
+.flexText {
     display: flex;
     width: 115px;
     color: #284259;
@@ -424,7 +424,7 @@ footer {
     margin: 85px 10px 85px 120px;
 }
 
-#MiniBlocBlue{
+#miniBlocBlue{
     width: 492px;
     height: 627px;
     margin-top: 4px;
@@ -437,7 +437,7 @@ footer {
     border: 2px solid #F16430;
 }
 
-#OrgTitle{
+#orgTitle{
     margin-left: 46px;
     margin-top: 19px;
     font-family: 'archivo_black';
@@ -446,21 +446,21 @@ footer {
     width: 362px;
 }
 
-#NewLogos{
+#newLogos{
     margin-left: 50px;
     margin-top: 18px;
     display: flex;
     flex-direction: column;
 }
 
-.LogosNeutro{
+.logosNeutro{
     margin-bottom: 30px;
     position: relative;
     z-index: 1;
     padding: 34px 0px 0px 0px;
 }
 
-.AcompaLogo{
+.acompaLogo{
     margin-left: 48px;
     position: relative;
     z-index: 2;
@@ -470,17 +470,17 @@ footer {
     font-size: 15px;
 }
 
-#Mapa{
+#mapa{
     margin-left: 70px;
     margin-top: 35px;
 }
 
-#Minilogo{
+#minilogo{
     margin-left: 76px;
     margin-top: 16px;
 }
 
-#CompilacionLogosNaranjas{
+#compilacionLogosNaranjas{
     margin-left: 250px;
     margin-top: -34px;
 }

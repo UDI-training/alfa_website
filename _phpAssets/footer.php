@@ -11,7 +11,7 @@
 	</div>
 	<div id="LinksPag">
 		<a href="#" class="button-five" style="color: #fff; text-decoration: none;">INICIO</a>
-		<a href="#" class="button-six" id="QS" style="color: #fff; text-decoration: none;">¿QUIÉNES SOMOS?</a>
+		<a href="#" class="button-six" id="qs" style="color: #fff; text-decoration: none;">¿QUIÉNES SOMOS?</a>
 		<a href="#" class="button-seven" style="color: #fff; text-decoration: none;">CONTÁCTANOS</a>
 	</div>
 	<div id="Links">
