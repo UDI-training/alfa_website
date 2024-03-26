@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <base href="http://localhost:8888/alfa_website/">
-    <?php inclu_once('_phpAssets/head.php'); ?>
+    <?php include_once('_phpAssets/head.php');  ?>
 
     <title>ALFA Escuela Profesional de Manejo</title>
 </head>

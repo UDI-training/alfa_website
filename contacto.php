@@ -4,11 +4,11 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" type="text/css" href="style.css">
-    <script type="text/javascript" src="script.js"></script>
+    <!-- <script type="text/javascript" src="script.js"></script> -->
     <title>Contacto</title>
 </head>
 <body>
-<?php include_once("PhpAssets/header.php"); ?>
+<?php include_once("./phpAssets/header.php"); ?>
 
 <!-- Contenedor principal -->
 <div id="formulario">
