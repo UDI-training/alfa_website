@@ -251,20 +251,20 @@ footer {
     margin-top: 30px;
 }
 
-#MiniAzul{
+#miniAzul{
     color: #284259;
     font-size: 20px;
 }
 
-#CompilacionLogos{
+#compilacionLogos{
     margin-top: 50px
 }
 
-#LG{
+#lg{
     margin-top: 20px;
 }
 
-#LinksPag{
+#linksPag{
     margin-top: 30px;
     align-items: center;
     display: flex;
@@ -272,7 +272,7 @@ footer {
     font-family: 'archivo_black';
 }
 
-#Links{
+#links{
     margin-top: 30px;
     align-items: center;
     display: flex;
@@ -280,7 +280,7 @@ footer {
     font-family: 'archivo_black';
 }
 
-#Ref{
+#ref{
     display: flex;
     height: 40px;
     border-top: 2px solid #ffffff;
@@ -289,11 +289,11 @@ footer {
     font-size: 15px;
 }
 
-#Derechos{
+#derechos{
     margin-left: 690px;
 }
 
-#Desarrolladores{
+#desarrolladores{
     margin-left: 90px;
 }
 
@@ -312,11 +312,11 @@ footer {
     margin-bottom: 71px;
 }
 
-.Logos{
+.logos{
     padding: 60px 0px 0px 128px;
 }
 
-.Txtbloc{
+.txtbloc{
     padding: 60px 0px 0px 31px;
     text-align: center;
     color: #FFFFFF;
@@ -499,7 +499,7 @@ footer {
     font-size: 15px;
 }
 
-.Rellenar{
+.rellenar{
     border: 0px solid;
     border-bottom: 1px solid #F16430;
     width: 500px;

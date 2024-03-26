@@ -13,7 +13,8 @@ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ */
 .header-content h1 {font-size: 2em; margin: 20% 10px 10% 10px;}
 
 nav {
-    flex-direction: column;    
+    flex-direction: column;
 }
 
 nav a { margin: 10px auto; }
+

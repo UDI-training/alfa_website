@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <base href="http://localhost:8888/alfa_website/">
-    <?php include_once('_phpAssets/head.php'); ?>
+    <?php inclu_once('_phpAssets/head.php'); ?>
 
     <title>ALFA Escuela Profesional de Manejo</title>
 </head>
@@ -26,9 +26,9 @@
     <div id="blueTxt">S&nbsp;E&nbsp;R&nbsp;V&nbsp;I&nbsp;C&nbsp;I&nbsp;O&nbsp;S</div>
     <div id="negroTxt">Servicios Educativos impartidos por el sector privado.</div>
     <div id="second-container">
-        <div class="orangBloc"><img class="Logos" src="_images/CarLogo.svg" alt="Car"><div class="Txtbloc">Curso de manejo para principiantes</div></div>
-        <div class="orangBloc"><img class="Logos" src="_images/LicenciaLogo.svg" alt="Licencia"><div class="Txtbloc">Curso de manejo intermedio</div></div>
-        <div class="orangBloc"><img class="Logos" src="_images/RayLogo.svg" alt="Rayo"><div class="Txtbloc">Curso de manejo masivo</div></div>
+        <div class="orangBloc"><img class="logos" src="_images/CarLogo.svg" alt="Car"><div class="txtbloc">Curso de manejo para principiantes</div></div>
+        <div class="orangBloc"><img class="logos" src="_images/LicenciaLogo.svg" alt="Licencia"><div class="txtbloc">Curso de manejo intermedio</div></div>
+        <div class="orangBloc"><img class="logos" src="_images/RayLogo.svg" alt="Rayo"><div class="txtbloc">Curso de manejo masivo</div></div>
     </div>
     <div id="myButtonContainer2">
         <button id="myButton2">Contactanos</button>
